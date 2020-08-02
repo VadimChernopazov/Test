@@ -8,14 +8,9 @@ int main(int argc, char** argv) {
 	uint8_t tmp=5;
 	
 	for(;tmp<15;tmp++){
-	printf("Hello world!  %d\n",tmp);	
-	
+	printf("Hello world!  %d\r\n",tmp);	
 	}
-	for(tmp=7;tmp<15;tmp++){
-	printf("Hello world!  %d\n",tmp);	
-	
-	}
-	
+	printf("6 commit  \r\n");
 	system("pause"); // Команда задержки экрана
 	return 0;
 }
