@@ -11,7 +11,7 @@ int main(int argc, char** argv) {
 	printf("Hello world!  %d\n",tmp);	
 	
 	}
-	for(tmp=4;tmp<15;tmp++){
+	for(tmp=7;tmp<15;tmp++){
 	printf("Hello world!  %d\n",tmp);	
 	
 	}
