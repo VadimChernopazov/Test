@@ -11,6 +11,10 @@ int main(int argc, char** argv) {
 	printf("Hello world!  %d\n",tmp);	
 	
 	}
+	for(tmp=0;tmp<15;tmp++){
+	printf("Hello world!  %d\n",tmp);	
+	
+	}
 	
 	system("pause"); // Команда задержки экрана
 	return 0;
