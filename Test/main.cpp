@@ -5,7 +5,7 @@
 
 
 int main(int argc, char** argv) {
-	uint8_t tmp=8;
+	uint8_t tmp=5;
 	
 	for(;tmp<15;tmp++){
 	printf("Hello world!  %d\n",tmp);	
